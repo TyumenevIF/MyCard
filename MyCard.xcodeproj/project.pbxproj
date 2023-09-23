@@ -12,6 +12,7 @@
 		43C22BB42ABF423200DF2500 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C22BB32ABF423200DF2500 /* Assets.xcassets */; };
 		43C22BB72ABF423200DF2500 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C22BB62ABF423200DF2500 /* Preview Assets.xcassets */; };
 		43C22BBF2ABF44B000DF2500 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43C22BBE2ABF44B000DF2500 /* Pacifico-Regular.ttf */; };
+		43C22BC22ABF509500DF2500 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C22BC12ABF509500DF2500 /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		43C22BB62ABF423200DF2500 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43C22BBE2ABF44B000DF2500 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
 		43C22BC02ABF47D700DF2500 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		43C22BC12ABF509500DF2500 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				43C22BC02ABF47D700DF2500 /* Info.plist */,
 				43C22BAF2ABF423100DF2500 /* MyCardApp.swift */,
 				43C22BB12ABF423100DF2500 /* ContentView.swift */,
+				43C22BC12ABF509500DF2500 /* InfoView.swift */,
 				43C22BB32ABF423200DF2500 /* Assets.xcassets */,
 				43C22BBD2ABF449D00DF2500 /* Fonts */,
 				43C22BB52ABF423200DF2500 /* Preview Content */,
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43C22BB22ABF423100DF2500 /* ContentView.swift in Sources */,
+				43C22BC22ABF509500DF2500 /* InfoView.swift in Sources */,
 				43C22BB02ABF423100DF2500 /* MyCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
